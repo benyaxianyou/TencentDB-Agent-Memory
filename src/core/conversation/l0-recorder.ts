@@ -565,5 +565,3 @@ function extractUserAssistantMessages(messages: unknown[]): ConversationMessage[
 
   return result;
 }
-
-
